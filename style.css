@@ -1,0 +1,106 @@
+h1 {
+background-color:lightblue;
+text-align: center;
+border-radius: 30px;
+border:2px solid red;
+color:cornflowerblue;
+
+
+
+
+}
+h3{
+
+    color: green;
+
+}
+h2{
+
+color: green;
+text-align: center;
+background-color: yellow;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    t{
+            width: 1350px;
+    
+        }
+    
+        button {
+            background-color: cornflowerblue;
+            color: aliceblue;
+            width: 240px;
+        }
+    
+        table,
+        tr,
+        td {
+    
+    
+    
+    
+    
+            border: 1px solid rgb(47, 47, 47);
+            border-collapse: collapse;
+            text-align: center;
+    
+    
+    
+    
+        }
+    
+        .tdp {
+            background-color: forestgreen;
+            width: 120px;
+            color: aliceblue;
+            font-size: 20px;
+        }
+    
+        .tdo {
+            background-color: blue;
+            width: 1100px;
+            color: aliceblue;
+            font-size: 20px;
+        }
+    
+        .tdi {
+            background-color: red;
+            color: antiquewhite;
+    
+        }
+    
+        .tdu {
+            background-color: black;
+            color: aliceblue;
+        }
+    
+        .tdy {
+            background-color: red;
+            color: aliceblue;
+    
+        }
+    
+        .tdt {
+            background-color: black;
+            color: aliceblue;
+        }
+.sa{
+text-align: center;
+background-color:black;
+}
+textarea{
+width: 1350px;
+
+}
